@@ -27,8 +27,8 @@ Visit [SharkTech](https://portal.sharktech.net/aff.php?aff=1427) for enterprise-
 
 | Feature | Basic | Advanced | Enterprise | Purchase |
 |---------|-------|----------|------------|----------|
-| DDoS Protection | 10Gbps | 20Gbps | Custom | [Buy Now](https://portal.sharktech.net/aff.php?aff=1427 |
-| Bandwidth | 10TB | 20TB | Unmetered | [Buy Now]https://portal.sharktech.net/aff.php?aff=1427) |
+| DDoS Protection | 10Gbps | 20Gbps | Custom | [Buy Now](https://portal.sharktech.net/aff.php?aff=1427) |
+| Bandwidth | 10TB | 20TB | Unmetered | [Buy Now](https://portal.sharktech.net/aff.php?aff=1427) |
 | CPU | Single Xeon | Dual Xeon | Custom | [Buy Now](https://portal.sharktech.net/aff.php?aff=1427) |
 | Memory | 32GB | 64GB | Custom | [Buy Now](https://portal.sharktech.net/aff.php?aff=1427) |
 | Storage | 1TB | 2TB | Custom | [Buy Now](https://portal.sharktech.net/aff.php?aff=1427) |
